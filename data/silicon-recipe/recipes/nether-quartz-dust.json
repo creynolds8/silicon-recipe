@@ -1,0 +1,14 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "ae2:all_quartz"
+    }
+  ],
+  "results": [
+    {
+      "amount": 1,
+      "item": "ae2:certus_quartz_dust"
+    }
+  ]
+}
